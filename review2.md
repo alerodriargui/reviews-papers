@@ -12,7 +12,7 @@ Aspects to consider
 
 What is the paper about? What did you understand?
 
-The paper evaluates distilled and quantized open-source Large Language Models (LLMs) running locally on consumer hardware, with a focus on code generation, reasoning, and mathematical problem-solving tasks. The authors benchmark several models—including DeepSeek R1 Distill Llama 70B, DeepSeek R1 Distill Qwen 32B, and QwQ-32B—across datasets such as AIME 2024, GPQA, LiveCodeBench, and MATH-500. The goal is to identify models that offer a balance between performance, inference speed, and privacy by enabling fully local deployment using tools like Ollama.
+The paper evaluates distilled and quantized open-source Large Language Models (LLMs) running locally on consumer hardware, with a focus on code generation, reasoning, and mathematical problem-solving tasks. The authors benchmark several models: including DeepSeek R1 Distill Llama 70B, DeepSeek R1 Distill Qwen 32B, and QwQ-32B—across datasets such as AIME 2024, GPQA, LiveCodeBench, and MATH-500. The goal is to identify models that offer a balance between performance, inference speed, and privacy by enabling fully local deployment using tools like Ollama.
 
 What do you think about the paper in general? Justify
 
@@ -40,7 +40,7 @@ List. Minor changes (spelling/math correction/reference errors)
 
 1. Some references are missing authors (“and others.” repeated excessively).
 
-2. “Decrease memory usage[cite:1]” → missing space before citation.
+2. The citation “[cite:1]” is a placeholder and does not resolve to any reference.
 
 3. Several section headers do not follow consistent formatting.
 
@@ -126,7 +126,6 @@ Judgement:
 [ ] Average
 [ ] Fair
 [ ] Poor
-
 
 
 8) Adequacy of references to literature:

@@ -40,7 +40,7 @@ List. What would you change/correct? Justify
 
 List. Minor changes (spelling/math correction/reference errors)
 
-1. Some references appear incomplete or inconsistent in formatting (e.g., missing page numbers, duplicated authors listed multiple times).
+1. Some references appear incomplete or inconsistent in formatting.
    
 2. Several sentences are long and could be simplified to improve flow.
    
@@ -176,8 +176,8 @@ Judgement:
 Recommendations as to publication (please mark one category):
 
 [ ] Excellent  
-[X] Accept  
-[ ] Marginal Accept  
+[ ] Accept  
+[X] Marginal Accept  
 [ ] Marginal Reject  
 [ ] Reject
 
