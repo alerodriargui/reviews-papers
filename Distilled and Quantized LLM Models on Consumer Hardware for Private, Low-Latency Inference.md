@@ -44,7 +44,7 @@ List. Minor changes (spelling/math correction/reference errors)
 
 3. Several section headers do not follow consistent formatting.
 
-4. Table 1 should use a standard Markdown/LaTeX table format for better readability.
+4. Table 1 should could be improved for better readability.
 
 
 Conclusion. Justify your review in one paragraph
