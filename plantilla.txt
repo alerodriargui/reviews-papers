@@ -1,0 +1,183 @@
+
+Title:
+
+------------------------------------------------------------------------------------
+
+
+
+Reviewer Blind Comments to Author:
+
+
+
+Aspects to consider
+
+<What is the paper about? What did you understand?>
+
+<What do you think about the paper in general?> <Justify>
+
+<List> <What would you change/correct?> <Justify>
+
+.... 
+
+
+<List> <Minor changes (spelling/math correction/reference errors)>
+
+
+....
+
+
+<Conclusion> <Justify your review in one paragraph>
+
+
+
+------------------------------------------------------------------------------------
+
+
+Reviewer Confidential Comments to Editor:
+
+
+Judgement:
+
+
+1) Type of contribution:
+
+__ Commentary or review
+
+__ New proposal of methodology
+
+__ Major improvement of a known method
+
+__ Minor improvement of a known method
+
+__ New application area
+
+__ Major development of a known application
+
+__ Minor development of a known application
+
+__ None of the above, but acceptable (explain)
+
+__ None of the above, unacceptable (explain)
+
+
+
+2) Potential impact:
+
+__ High reference value for wide readership
+
+__ High reference value for limited readership
+
+__ Marginal reference value for wide readership
+
+__ Marginal reference value for limited readership
+
+__ No reference value
+
+
+
+3) Overall quality:
+
+__ Excellent __ Good __ Average __ Fair __ Poor
+
+
+
+4) Originality:
+
+__ Excellent __ Good __ Average __ Fair __ Poor
+
+__ Cannot determine (explain)
+
+
+
+5) Technical correctness:
+
+__ Correct
+
+__ Probably correct, convincing
+
+__ Probably incorrect or unconvincing
+
+__ Incorrect
+
+__ Cannot determine (explain)
+
+
+
+6) Experimental evaluation:
+
+__ No such need
+
+__ Thorough and convincing
+
+__ Limited but convincing
+
+__ Unconvincing
+
+__ Cannot determine (explain)
+
+
+
+7) Clarity of presentation:
+
+__ Excellent __ Good __ Average __ Fair __ Poor
+
+
+
+8) Adequacy of references to literature:
+
+__ Adequate
+
+__ Mostly adequate, with some omissions (explain)
+
+__ Inadequate references (explain)
+
+
+
+9) Linguistic quality:
+
+__ Excellent __ Good __ Average __ Fair __ Poor __ Cannot Judge
+
+
+
+10) Quality of illustrations:
+
+__ Excellent __ Good __ Average __ Fair __ Poor
+
+
+
+Recommendations as to publication (please mark one category):
+
+
+
+__ Excellent
+
+__ Accept
+
+__ Marginal Accept
+
+__ Marginal Reject
+
+__ Reject
+
+
+
+
+
+Confidential (NOT to be forwarded to the authors):
+
+
+
+Confidence of review:
+
+__ Highly confident
+
+__ Confident
+
+__ Somewhat confident
+
+__ May need additional review in some areas (explain)
+
+
+
+Additional remarks for editors only:
+<Comments that are not sent to the authors but that help the editor to decide> IMPORTANT!
